@@ -1,0 +1,439 @@
+/* font-family: "GothamProRegular"; */
+@font-face {
+    font-family: "GothamProRegular";
+    src: url("../fonts/GothamProRegular/GothamProRegular.eot");
+    src: url("../fonts/GothamProRegular/GothamProRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GothamProRegular/GothamProRegular.woff") format("woff"),
+    url("../fonts/GothamProRegular/GothamProRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "GothamProBold"; */
+@font-face {
+    font-family: "GothamProBold";
+    src: url("../fonts/GothamProBold/GothamProBold.eot");
+    src: url("../fonts/GothamProBold/GothamProBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GothamProBold/GothamProBold.woff") format("woff"),
+    url("../fonts/GothamProBold/GothamProBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "GothamProBlack"; */
+@font-face {
+    font-family: "GothamProBlack";
+    src: url("../fonts/GothamProBlack/GothamProBlack.eot");
+    src: url("../fonts/GothamProBlack/GothamProBlack.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GothamProBlack/GothamProBlack.woff") format("woff"),
+    url("../fonts/GothamProBlack/GothamProBlack.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "GothamProItalic"; */
+@font-face {
+    font-family: "GothamProItalic";
+    src: url("../fonts/GothamProItalic/GothamProItalic.eot");
+    src: url("../fonts/GothamProItalic/GothamProItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GothamProItalic/GothamProItalic.woff") format("woff"),
+    url("../fonts/GothamProItalic/GothamProItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "GothamProMedium"; */
+@font-face {
+    font-family: "GothamProMedium";
+    src: url("../fonts/GothamProMedium/GothamProMedium.eot");
+    src: url("../fonts/GothamProMedium/GothamProMedium.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GothamProMedium/GothamProMedium.woff") format("woff"),
+    url("../fonts/GothamProMedium/GothamProMedium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "GothamProLight"; */
+@font-face {
+    font-family: "GothamProLight";
+    src: url("../fonts/GothamProLight/GothamProLight.eot");
+    src: url("../fonts/GothamProLight/GothamProLight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GothamProLight/GothamProLight.woff") format("woff"),
+    url("../fonts/GothamProLight/GothamProLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "GothamProMediumItalic"; */
+@font-face {
+    font-family: "GothamProMediumItalic";
+    src: url("../fonts/GothamProMediumItalic/GothamProMediumItalic.eot");
+    src: url("../fonts/GothamProMediumItalic/GothamProMediumItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GothamProMediumItalic/GothamProMediumItalic.woff") format("woff"),
+    url("../fonts/GothamProMediumItalic/GothamProMediumItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "GothamProLightItalic"; */
+@font-face {
+    font-family: "GothamProLightItalic";
+    src: url("../fonts/GothamProLightItalic/GothamProLightItalic.eot");
+    src: url("../fonts/GothamProLightItalic/GothamProLightItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GothamProLightItalic/GothamProLightItalic.woff") format("woff"),
+    url("../fonts/GothamProLightItalic/GothamProLightItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "GothamProBoldItalic"; */
+@font-face {
+    font-family: "GothamProBoldItalic";
+    src: url("../fonts/GothamProBoldItalic/GothamProBoldItalic.eot");
+    src: url("../fonts/GothamProBoldItalic/GothamProBoldItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GothamProBoldItalic/GothamProBoldItalic.woff") format("woff"),
+    url("../fonts/GothamProBoldItalic/GothamProBoldItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "GothamProBlackItalic"; */
+@font-face {
+    font-family: "GothamProBlackItalic";
+    src: url("../fonts/GothamProBlackItalic/GothamProBlackItalic.eot");
+    src: url("../fonts/GothamProBlackItalic/GothamProBlackItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GothamProBlackItalic/GothamProBlackItalic.woff") format("woff"),
+    url("../fonts/GothamProBlackItalic/GothamProBlackItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@import "http://webfonts.ru/import/roboto.css";
+
+body {
+    padding: 0;
+    margin: 0;
+    color: #676a6c;
+    font-family: arial, san-self;
+    background: #EDF4F6;
+    overflow-x: hidden
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #676a6c;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.container {
+    /*width: 1000px;*/
+    margin-left: auto;
+    margin-right: auto;
+    /*outline: 1px solid #cc0000;*/
+}
+
+h1 {
+    font: 32px 'PT Sans';
+    font-weight: bold;
+    color: #1c1c1c;
+}
+
+/* Icons */
+
+i.user {
+  background: url('/images/user.png') no-repeat;
+  background-size: cover;
+  width: 9px;
+  height: 11px;
+  margin: 3px 5px;
+  float: left;
+}
+
+i.time {
+  background: url('/images/time.png') no-repeat;
+  background-size: cover;
+  width: 12px;
+  height: 12px;
+  margin: 3px 5px;
+  float: left;
+}
+
+i.logo {
+  float: left;
+  margin-top: 3px;
+  margin-bottom: 0;
+  margin-right: 20px;
+  background: url('../images/logo.png') no-repeat;
+  width: 42px;
+  height: 40px;
+}
+
+/* Header */
+
+#header {
+    width: 100%;
+    background: #fff;
+    -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+}
+
+.border {
+    border-color: transparent;
+}
+
+.bar {
+    height: 30px;
+    background: #EDF4F6;
+    margin-bottom: 5px;
+}
+
+.status {
+    color: #848484;
+    font: 13px 'PT Sans';
+    padding: 6px 20px 6px 10px;
+    float: left;
+}
+
+.login {
+    color: #848484;
+    font: 13px 'PT Sans';
+    padding: 6px 20px 6px 10px;
+    float: right;
+    background: #e6e6e6;
+}
+
+.status > b{
+    font: 12px 'PT Sans';
+    font-weight: 300;
+    color: #424242;
+}
+
+.logo {
+    float: left;
+    margin: 15px 10px;
+    text-transform: uppercase;
+}
+
+.logo h1 {
+    float: left;
+    font: 18px 'GothamProBold';
+    color: #2d2d2d;
+}
+
+.logo h4 {
+    float: left;
+    margin-top: 1px;
+    font: 18px 'GothamProRegular';
+    color: #797979;
+    margin-top: 13px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+}
+
+.navbar {
+    float: right;
+    margin: 15px 10px;
+}
+
+.navbar > li {
+    float: left;
+    padding: 10px 10px;
+}
+
+.navbar > li > a {
+    font: 14px 'PT Sans';
+    color: #6f6f6f;
+    text-decoration: none;
+    padding-bottom: 30px;
+}
+
+.navbar > li > a:hover,
+.navbar > li > a:focus,
+.navbar > li > a.active {
+    color: #2d2d2d;
+    border-bottom: 2px solid #FB3A3A;
+    padding-bottom: 30px;
+}
+
+/* Content */
+
+#content {
+    width: 100%;
+}
+
+#content > .container > p {
+    text-align: center;
+    font: 14px 'PT Sans';
+    color: #959595;
+}
+
+#content > .container > h1 {
+    text-align: center;
+    margin-bottom: -10px;
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+#content #news {
+    width: 820px;
+    margin: 0 auto;
+}
+
+#news .news {
+    width: 730px;
+    margin: 40px 10px;
+    background: #fff;
+    padding: 35px;
+    -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
+    font-family: 'PT Sans';
+}
+
+#news .news .news-image {
+    margin: -35px;
+    margin-bottom: 0px;
+}
+
+#news .news h3 {
+    font-size: 29px;
+    color: #151515;
+    margin: 5px 0;
+}
+
+#news .news .time,
+#news .news .author {
+    display: inline-block;
+    font-size: 14px;
+    color: #B8B8B8;
+}
+
+#news .news .news-text {
+    margin-top: 10px;
+    font-size: 15px;
+    color: #151515;
+}
+
+#news .news .news-text a {
+    text-decoration: underline;
+    color: #5193A7;
+}
+
+#news .news .repost {
+    display: inline-block;
+    background: #DFE8ED;
+    color: #737F83;
+    width: 125px;
+    padding: 5px 10px;
+    font-size: 13px;
+    text-align: center;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+#news .news .like {
+    display: inline-block;
+    color: #5A86AA;
+    margin-left: 5px;
+}
+
+#news .news .like .like-btn {
+    background: url("/images/like.png");
+    background-size: cover;
+    width: 24px;
+    height: 26px;
+    float: left;
+    margin-top: -2px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+#content .refresh {
+    background: url("/images/refresh.png") no-repeat;
+    width: 56px;
+    height: 56px;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 40px;
+}
+
+#content .refresh:hover,
+#content .refresh:focus {
+    background: url("/images/refresh-hover.png") no-repeat;
+}
+
+/* Footer */
+
+#footer {
+    font: 13px 'PT Sans';
+    color: #959595;
+    width: 100%;
+    height: 68px;
+    margin: 15px 0;
+}
+
+#footer > .container > .left > a.vk-btn {
+    color: #6382b9;
+    display: block;
+    text-decoration: underline;
+}
+
+#footer > .container > .left > a.vk-btn:hover,
+#footer > .container > .left > a.vk-btn:focus {
+    text-decoration: none;
+}
+
+#footer > .container > .left { width: 29%; margin-left: 10px; }
+#footer > .container > .right { width: 69%;  margin-right: 10px; }
+
+.navbar-footer {
+    float: right;
+    /*margin: 15px 10px;*/
+}
+
+.navbar-footer > li {
+    float: left;
+    padding: 10px 10px;
+}
+
+.navbar-footer > li > a {
+    font: 14px 'PT Sans';
+    color: #a7a7a7;
+    text-decoration: none;
+}
+
+.navbar-footer > li > a:hover,
+.navbar-footer > li > a:focus,
+.navbar-footer > li > a.active {
+    color: #2d2d2d;
+}
+
+/* Others */
+
+.rotate {
+-webkit-transition-duration: 0.8s;
+-moz-transition-duration: 0.8s;
+-o-transition-duration: 0.8s;
+transition-duration: 0.8s;
+-webkit-transition-property: -webkit-transform;
+-moz-transition-property: -moz-transform;
+-o-transition-property: -o-transform;
+transition-property: transform;
+overflow: hidden;
+}
+ 
+.rotate:hover {
+-webkit-transform: rotate(360deg);
+-moz-transform: rotate(360deg);
+-o-transform: rotate(360deg);
+}
